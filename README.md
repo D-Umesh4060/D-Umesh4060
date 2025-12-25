@@ -22,7 +22,6 @@
   <br><br>
   <p><b>Govt. Jr College</b>, Madakasira, India.</p>
   <p>Completed my Intermediate,CGPA:6.5 (2019- 2021)</p>
-  <br><br>
 </div>
 <hr>
 <div>
