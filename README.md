@@ -21,9 +21,8 @@
   <p>Completed my B.Tech in Computer Science & Design, CGPA:7.4 (2021- 2025)</p>
   <br><br>
   <p><b>Govt. Jr College</b>, Madakasira, India.</p>
-  <p>Completed my B.Tech in Computer Science & Design, CGPA:7.4 (2021- 2025)</p>
+  <p>Completed my Intermediate,CGPA:6.5 (2019- 2021)</p>
   <br><br>
-  
 </div>
 
 
