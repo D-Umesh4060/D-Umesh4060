@@ -4,6 +4,7 @@
 
 <p>I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.</p>
 <hr>
+<div>
 <h2><img  width="25" height="25" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" /> Technical Skills</h2> 
 <ul>
   <li>Frontend : HTML5 ,CSS3, JavaScript, Bootstrap, Tailwind, React</li>
@@ -12,7 +13,7 @@
   <li>Tools : Git & Github, VS Code, Sublinetext, ChatGPT.</li>
   <li>Soft Skills : Excellent Communication,Problem-solving, Time Management, Teamwork.</li>
 </ul>
-
+</div>
 
 
 
