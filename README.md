@@ -4,7 +4,8 @@
 
 <p>I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.</p>
 <hr>
-<h2><img  width="25" height="25" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" /> Technical Skills</h2>
+<h2><img  width="25" height="25" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" /> Technical Skills</h2> 
+<img src="http://www.w3.org/html/logo/badge/html5-badge-v-connectivity-css3-device-graphics-multimedia-performance-semantics-storage.png" width="38" height="330" alt="HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, Graphics, 3D &amp; Effects, Multimedia, Performance &amp; Integration, Semantics, and Offline &amp; Storage" title="HTML5 Powered with Connectivity / Realtime, CSS3 / Styling, Device Access, Graphics, 3D &amp; Effects, Multimedia, Performance &amp; Integration, Semantics, and Offline &amp; Storage">
 
 
 
