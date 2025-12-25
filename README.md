@@ -4,6 +4,7 @@
 
 <p>I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.</p>
 <hr>
+<strong style="font-size: 100px">💻 Tech Stack</strong>
 
 
 <!--
