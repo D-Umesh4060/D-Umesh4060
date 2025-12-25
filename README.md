@@ -14,7 +14,10 @@
   <li>Soft Skills : Excellent Communication,Problem-solving, Time Management, Teamwork.</li>
 </ul>
 </div>
-
+<hr>
+<div>
+  <h2>📚 Education </h2>
+</div>
 
 
 <!--
