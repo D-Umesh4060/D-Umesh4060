@@ -7,6 +7,10 @@
 <h2><img  width="25" height="25" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" /> Technical Skills</h2> 
 <ul>
   <li>Frontend : HTML5 ,CSS3, JavaScript, Bootstrap, Tailwind, React</li>
+  <li>Backend : Python, Django</li>
+  <li>Database : MYSQL</li>
+  <li>Tools : Git & Github, VS Code, Sublinetext, ChatGPT.</li>
+  <li>Soft Skills : Excellent Communication,Problem-solving, Time Management, Teamwork.</li>
 </ul>
 
 
