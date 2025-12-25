@@ -19,7 +19,11 @@
   <h2>📚 Education </h2>
   <p><b>P.V.K.K Institute of technology</b>,Anantapur, India.</p>
   <p>Completed my B.Tech in Computer Science & Design, CGPA:7.4 (2021- 2025)</p>
-  <hr>
+  <br><br>
+  <p><b>Govt. Jr College</b>, Madakasira, India.</p>
+  <p>Completed my B.Tech in Computer Science & Design, CGPA:7.4 (2021- 2025)</p>
+  <br><br>
+  
 </div>
 
 
