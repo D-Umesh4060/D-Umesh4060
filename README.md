@@ -1,6 +1,6 @@
 ## 👋 Hi there, I'm Dolalappa gari Umesh
 <hr>
-<b></b>🚀 React Developer | 🧩 Frontend Developer | 📈 SEO Enthusiast</b>
+<b>🚀 React Developer | 🧩 Frontend Developer | 📈 SEO Enthusiast</b>
 
 
 
