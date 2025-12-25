@@ -1,4 +1,4 @@
-<h1>## 👋 Hi there, I'm Dolalappa gari Umesh</h1>
+<h1> 👋 Hi there, I'm Dolalappa gari Umesh</h1>
 
 <h2>🚀 React Developer | 🧩 Frontend Developer | 📈 SEO Enthusiast</h2>
 
