@@ -17,7 +17,7 @@
 <hr>
 <div>
   <h2>📚 Education </h2>
-  <h4>P.V.K.K Institute of technology</h4>                                                        <p>Anantapur, India</p>
+  <h4>P.V.K.K Institute of technology</h4>,<p>Anantapur, India</p>
 </div>
 
 
