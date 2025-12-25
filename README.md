@@ -4,7 +4,7 @@
 
 <p>I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.</p>
 <hr>
-<h2><img alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" /></h2>
+<h2><img  width="30" height="30" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" /> Technical Skills</h2>
 
 
 
