@@ -1,11 +1,11 @@
 ## 👋 Hi there, I'm Dolalappa gari Umesh
 
-<b width="160" height="160">🚀 React Developer | 🧩 Frontend Developer | 📈 SEO Enthusiast</b>
+<h1>🚀 React Developer | 🧩 Frontend Developer | 📈 SEO Enthusiast</h1>
 
 <p>I'm a passionate and self-driven developer who loves building modern web applications with great UI/UX. With strong knowledge in both frontend and backend technologies, I enjoy turning ideas into real-world projects.</p>
 <hr>
-<strong><img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" />
-</strong>
+<img width="160" height="160" alt="img icons8" src="https://github.com/user-attachments/assets/c01dbf76-fd4c-4692-91d1-f312ccc0bf3c" />
+
 
 
 
